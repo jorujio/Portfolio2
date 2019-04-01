@@ -1,13 +1,4 @@
 
-TITLE: 
-Personal - 100% Fully Responsive Free HTML5 Bootstrap Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -41,3 +32,8 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 Easy Pie Chart
 https://github.com/rendro/easy-pie-chart
+
+AUTHOR:
+DESIGNED & DEVELOPED by FREEHTML5.co
+
+Website: http://freehtml5.co/
